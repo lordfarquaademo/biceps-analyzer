@@ -1,12 +1,6 @@
-<iframe>
-# Biomechanical Free Weight Biceps Analyzer
+# 🏋️‍♂️ Biomechanical Biceps Analyzer
 
-Accede a la versión interactiva directamente a continuación o mediante el [enlace a GitHub Pages](https://tu-usuario.github.io/biceps-analyzer/).
+[![Ejecutar App](https://img.shields.io/badge/EJECUTAR_APP_EN_VIVO-00F0FF?style=for-the-badge&logo=github&logoColor=black)](https://tu-usuario.github.io/biceps-analyzer/)
 
-<iframe 
-  src="https://tu-usuario.github.io/biceps-analyzer/" 
-  width="100%" 
-  height="700px" 
-  style="border:none; border-radius: 12px;"
-  allow="camera; microphone">
-</iframe>
+> Presiona el botón superior para abrir la aplicación en tu navegador. Requiere permisos de cámara.
+
